@@ -1,9 +1,12 @@
 WDD 330 – W09 Challenge Proposals
+
 Natalie Tesam
 
 Purpose – A Personal Website to showcase my skills in crochet in a blog, to sell patterns and kits crocheters can make for themselves, to reach a larger online audience by growing a small crochet community, and to combine my crochet content from various websites into one central location.
+
 Audience – Crochet hobbyists of all skill levels and age groups. People who want to learn crochet and people who have more advanced skills that want to use my patterns to create their own products.
 Data Sources – Pattern Details, User Sign In, product lists, and blog posts are temporarily stored in a local JSON file. The cart and wishlist will use localStorage to store the user’s selection. 
+
 Initial Module List 
 -	Home 
 -	Patterns 
@@ -25,7 +28,9 @@ Wireframes
 -	Checkout: https://wireframe.cc/KOe0CQ 
 
 Colors/Typography/specific Element Styling 
-https://coolors.co/596475-bc9ec1-e3bac6-fde8e9 
+ - https://coolors.co/596475-bc9ec1-e3bac6-fde8e9
+ - <img width="975" height="61" alt="image" src="https://github.com/user-attachments/assets/f0f3b31f-b995-41f5-9031-75963a4e81d6" />
+
  
 Schedule
 -	Week 10: Planning, Styling, Wireframes Designing, Generate Test Data and Images for the patterns, products, and social aspects in the blog and comments 
