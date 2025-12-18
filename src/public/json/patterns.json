@@ -7,11 +7,11 @@
     "materials": {
       "yarn_colors": [
         {
-          "color": "unspecified body color",
+          "color": "body color",
           "usage": "body, wings"
         },
         {
-          "color": "unspecified comb color",
+          "color": "comb color (red)",
           "usage": "comb"
         }
       ],

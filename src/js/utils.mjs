@@ -1,9 +1,9 @@
-function qs(selector) {
+export function qs(selector) {
   return document.querySelector(selector);
 }
 
 // Returns a function that returns a promise that resolves to the HTML string of the template 
-function loadTemplate(path) {
+export function loadTemplate(path) {
     return async function () {
         const res = await fetch(path);
         if (res.ok) {
@@ -34,6 +34,12 @@ export async function getData(path) {
     throw new Error(`Failed to fetch ${path}`);
   }
   return response.json();
+}
+
+export function getParam(param) {
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  return urlParams.get(param); // return product
 }
 
 export async function renderHTMLWithTemplate(templateFn, parentElement, data, callback, position="afterbegin", clear=true) {
