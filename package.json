@@ -1,0 +1,26 @@
+{
+  "name": "wdd330personal",
+  "version": "1.0.0",
+  "description": "crochet website for WDD 330 personal project",
+  "license": "ISC",
+  "author": "Natalie Tesam",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build --emptyOutDir",
+    "preview": "vite preview",
+    "lint": "eslint *.js src/**/*.js",
+    "format": "prettier --ignore-path ./.gitignore --write \"./**/*.{html,json,js,ts,css}\"",
+    "test": "vitest"   
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.25.1",
+    "eslint": "^9.25.1",
+    "eslint-config-prettier": "^10.1.2",
+    "globals": "^16.0.0",
+    "prettier": "^3.5.3",
+    "vite": "^6.3.3",
+    "vitest": "^3.1.2"
+  }
+}

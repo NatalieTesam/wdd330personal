@@ -1,0 +1,139 @@
+:root {
+    --gray-color: #596475;
+    --purple-color: #BC9EC1;
+    --pink-color: #E3BAC6;
+    --light-pink-color: #FDE8E9;
+}
+
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 26px;
+    color: var(--gray-color);
+}
+
+ul {
+    list-style: none;
+}
+
+header {
+    color: var(--gray-color);
+    background-color: var(--light-pink-color);
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1em;
+}
+
+header img {
+    margin: auto;
+    width: 4.5em;
+    /* border: 2px solid var(--purple-color); */
+}
+
+header ul {
+    margin: 0.5em;
+    padding: 0.5em;
+    display: flex;
+    justify-content: space-between;
+}
+
+header li {
+    margin: 0.5em;
+}
+
+header a {
+    text-decoration: none;
+    color: var(--gray-color);
+    font-size: 1.3em;
+    padding: 0.5em 1em;
+}
+
+header a:hover {
+    color: var(--purple-color)
+}
+
+header button {
+    margin: 0.5em;
+    padding: 0.5em 1em;
+    background-color: var(--pink-color);
+    border: none;
+    color: var(--gray-color);
+    font-size: 1.3em;
+    cursor: pointer;
+}
+
+.buttons
+{
+    display: flex;
+    margin-left: auto;
+}
+
+main {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+#bannerImg {
+    max-width: 100%;
+}
+
+.featured {
+    padding: 1em;
+    text-align: center;
+}
+
+.featured ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.featured img {
+    max-width: 300px;
+}
+
+.aboutMe {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.aboutMe a {
+    text-decoration: none;
+    color: var(--gray-color);
+    font-size: 1.3em;
+    padding: 0.5em 1em;
+    text-align: center;
+}
+
+.aboutMe a:hover {
+    color: var(--purple-color)
+}
+
+.reviews {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+.review {
+    text-align: center;
+    margin: 3em;
+}
+
+footer {
+    background-color: var(--light-pink-color);
+}
+
+footer img {
+    max-width: 100%;
+}
+
+.patternsList {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
