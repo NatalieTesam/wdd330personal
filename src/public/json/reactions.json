@@ -1,0 +1,732 @@
+{
+  "Chicken": [
+    {
+      "comment_id": "cmt_001",
+      "username": "craftingKiwi",
+      "date": "2025-01-12",
+      "content": "This chicken worked up so fast! The little comb is my favorite part.",
+      "reactions": { "likes": 11, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_002",
+      "username": "yarnBees",
+      "date": "2025-01-14",
+      "content": "Made two of these for my kids—now they want a whole mini farm!",
+      "reactions": { "likes": 7, "hearts": 3 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_003",
+      "username": "hookedOnCute",
+      "date": "2025-01-16",
+      "content": "Such a simple pattern but SO cute. Quick win!",
+      "reactions": { "likes": 5, "hearts": 5 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_004",
+      "username": "fiberFeather",
+      "date": "2025-01-18",
+      "content": "My comb came out a bit crooked but honestly… I think it adds personality 😂",
+      "reactions": { "likes": 12, "hearts": 8 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_005",
+      "username": "softnest",
+      "date": "2025-01-19",
+      "content": "This is my new go-to for beginner gifts!",
+      "reactions": { "likes": 9, "hearts": 6 },
+      "reply_to": null
+    }
+  ],
+
+  "Grogu": [
+    {
+      "comment_id": "cmt_006",
+      "username": "galacticYarn",
+      "date": "2025-02-01",
+      "content": "Grogu turned out adorable!! The ears are everything.",
+      "reactions": { "likes": 13, "hearts": 9 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_007",
+      "username": "nerdKnit",
+      "date": "2025-02-02",
+      "content": "Loved stitching the robe! So cozy.",
+      "reactions": { "likes": 7, "hearts": 5 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_008",
+      "username": "starloop",
+      "date": "2025-02-03",
+      "content": "My Grogu sits on my desk now and watches me work 😂",
+      "reactions": { "likes": 4, "hearts": 6 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_009",
+      "username": "tinyhooks",
+      "date": "2025-02-04",
+      "content": "Pattern was super easy to follow. Thank you!",
+      "reactions": { "likes": 10, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_010",
+      "username": "craftnight",
+      "date": "2025-02-04",
+      "content": "Mine came out a little chonky and I love him.",
+      "reactions": { "likes": 11, "hearts": 10 },
+      "reply_to": null
+    }
+  ],
+
+  "Bulbasaur": [
+    {
+      "comment_id": "cmt_011",
+      "username": "pokehooks",
+      "date": "2025-01-22",
+      "content": "The bulb shaping was easier than I expected!",
+      "reactions": { "likes": 8, "hearts": 6 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_012",
+      "username": "retroStitch",
+      "date": "2025-01-23",
+      "content": "Loved making this! My favorite Pokémon.",
+      "reactions": { "likes": 6, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_013",
+      "username": "greenleaf",
+      "date": "2025-01-24",
+      "content": "I made a shiny version with blue yarn!",
+      "reactions": { "likes": 14, "hearts": 10 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_014",
+      "username": "softsprites",
+      "date": "2025-01-25",
+      "content": "Perfect gift for my brother. He loved it!",
+      "reactions": { "likes": 7, "hearts": 3 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_015",
+      "username": "vinesAndLoops",
+      "date": "2025-01-26",
+      "content": "This one took me a bit longer but worth every minute.",
+      "reactions": { "likes": 9, "hearts": 5 },
+      "reply_to": null
+    }
+  ],
+
+  "Bat": [
+    {
+      "comment_id": "cmt_016",
+      "username": "moonstitch",
+      "date": "2025-01-10",
+      "content": "Such a cute Halloween project!",
+      "reactions": { "likes": 8, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_017",
+      "username": "batmom",
+      "date": "2025-01-11",
+      "content": "Made three for my kids—now they all want tiny capes 😭",
+      "reactions": { "likes": 15, "hearts": 9 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_018",
+      "username": "gloomyloops",
+      "date": "2025-01-12",
+      "content": "Way easier than I expected. Wings are genius.",
+      "reactions": { "likes": 9, "hearts": 5 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_019",
+      "username": "shadowfiber",
+      "date": "2025-01-13",
+      "content": "This pattern is spooky AND adorable.",
+      "reactions": { "likes": 6, "hearts": 3 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_020",
+      "username": "hallowspirit",
+      "date": "2025-01-14",
+      "content": "We need a vampire bat version next!!",
+      "reactions": { "likes": 18, "hearts": 14 },
+      "reply_to": null
+    }
+  ],
+
+  "BaldEagle": [
+    {
+      "comment_id": "cmt_021",
+      "username": "featherworks",
+      "date": "2025-02-01",
+      "content": "That white head texture row was so fun!",
+      "reactions": { "likes": 10, "hearts": 5 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_022",
+      "username": "birdsofthread",
+      "date": "2025-02-02",
+      "content": "Made this for my grandpa—he LOVED it.",
+      "reactions": { "likes": 13, "hearts": 9 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_023",
+      "username": "skyhook",
+      "date": "2025-02-03",
+      "content": "Such a majestic little dude!",
+      "reactions": { "likes": 7, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_024",
+      "username": "craftflight",
+      "date": "2025-02-03",
+      "content": "Beak placement was tricky but worth it.",
+      "reactions": { "likes": 5, "hearts": 3 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_025",
+      "username": "patriothooks",
+      "date": "2025-02-04",
+      "content": "Perfect 4th of July decoration!",
+      "reactions": { "likes": 11, "hearts": 6 },
+      "reply_to": null
+    }
+  ],
+
+  "Pig": [
+    {
+      "comment_id": "cmt_026",
+      "username": "pinkpurls",
+      "date": "2025-01-05",
+      "content": "Cutest pig ever!! The snout detail was so fun.",
+      "reactions": { "likes": 12, "hearts": 8 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_027",
+      "username": "farmfiber",
+      "date": "2025-01-06",
+      "content": "Made this for my niece—she carries it everywhere.",
+      "reactions": { "likes": 9, "hearts": 5 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_028",
+      "username": "porchpurls",
+      "date": "2025-01-07",
+      "content": "Tail came out curly and perfect!",
+      "reactions": { "likes": 7, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_029",
+      "username": "loopyfarm",
+      "date": "2025-01-08",
+      "content": "This was such a relaxing make.",
+      "reactions": { "likes": 6, "hearts": 3 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_030",
+      "username": "pigletknots",
+      "date": "2025-01-09",
+      "content": "Might make a whole herd!",
+      "reactions": { "likes": 14, "hearts": 10 },
+      "reply_to": null
+    }
+  ],
+
+  "Otter": [
+    {
+      "comment_id": "cmt_031",
+      "username": "riverloops",
+      "date": "2025-01-11",
+      "content": "The little arms are TOO cute.",
+      "reactions": { "likes": 10, "hearts": 7 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_032",
+      "username": "ottermom",
+      "date": "2025-01-12",
+      "content": "Made this with my daughter—she named him Bubbles.",
+      "reactions": { "likes": 12, "hearts": 8 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_033",
+      "username": "moonknit",
+      "date": "2025-01-13",
+      "content": "So simple and so cute. Perfect little gift!",
+      "reactions": { "likes": 6, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_034",
+      "username": "lakefiber",
+      "date": "2025-01-14",
+      "content": "I made two—they look adorable together.",
+      "reactions": { "likes": 8, "hearts": 6 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_035",
+      "username": "wovenwaves",
+      "date": "2025-01-15",
+      "content": "This pattern is a keeper.",
+      "reactions": { "likes": 7, "hearts": 3 },
+      "reply_to": null
+    }
+  ],
+
+  "Sheep": [
+    {
+      "comment_id": "cmt_036",
+      "username": "cloudloops",
+      "date": "2025-01-18",
+      "content": "The bobble texture is EVERYTHING.",
+      "reactions": { "likes": 12, "hearts": 9 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_037",
+      "username": "fluffcraft",
+      "date": "2025-01-19",
+      "content": "Made one for my grandma—she cried 😭",
+      "reactions": { "likes": 15, "hearts": 11 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_038",
+      "username": "yardyarn",
+      "date": "2025-01-20",
+      "content": "This was my first bobble stitch project and it turned out great!",
+      "reactions": { "likes": 9, "hearts": 6 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_039",
+      "username": "flockfiber",
+      "date": "2025-01-21",
+      "content": "The hook-size switching trick works SO well.",
+      "reactions": { "likes": 7, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_040",
+      "username": "softpastures",
+      "date": "2025-01-22",
+      "content": "I want to make a black sheep version next 🐑🖤",
+      "reactions": { "likes": 10, "hearts": 8 },
+      "reply_to": null
+    }
+  ],
+
+  "Pug": [
+    {
+      "comment_id": "cmt_041",
+      "username": "tinybarks",
+      "date": "2025-02-03",
+      "content": "That snout was surprisingly fun to stitch!",
+      "reactions": { "likes": 8, "hearts": 6 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_042",
+      "username": "puglife",
+      "date": "2025-02-04",
+      "content": "Made this for my pug-obsessed bestie!",
+      "reactions": { "likes": 10, "hearts": 7 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_043",
+      "username": "creamknots",
+      "date": "2025-02-05",
+      "content": "My ears were slightly uneven but actually kinda cute??",
+      "reactions": { "likes": 6, "hearts": 3 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_044",
+      "username": "snoutloops",
+      "date": "2025-02-06",
+      "content": "Super quick project! Will make more.",
+      "reactions": { "likes": 7, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_045",
+      "username": "dogthread",
+      "date": "2025-02-07",
+      "content": "We need more dog breeds please!",
+      "reactions": { "likes": 14, "hearts": 10 },
+      "reply_to": null
+    }
+  ],
+
+  "KoyaBt21": [
+    {
+      "comment_id": "cmt_046",
+      "username": "bt21fan",
+      "date": "2025-02-08",
+      "content": "Koya turned out adorable. Those ears!!",
+      "reactions": { "likes": 11, "hearts": 9 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_047",
+      "username": "sleepyhooks",
+      "date": "2025-02-09",
+      "content": "Mine came out sleepy and chonky, exactly how I wanted 💤💙",
+      "reactions": { "likes": 9, "hearts": 7 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_048",
+      "username": "stitcharmy",
+      "date": "2025-02-10",
+      "content": "The leg join was so satisfying.",
+      "reactions": { "likes": 5, "hearts": 3 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_049",
+      "username": "idolthreads",
+      "date": "2025-02-10",
+      "content": "Perfect for gifting to ARMY friends!",
+      "reactions": { "likes": 7, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_050",
+      "username": "kozykoya",
+      "date": "2025-02-11",
+      "content": "Thank you for this adorable pattern.",
+      "reactions": { "likes": 10, "hearts": 8 },
+      "reply_to": null
+    }
+  ],
+
+  "ChimmyBt21": [
+    {
+      "comment_id": "cmt_051",
+      "username": "yellowloops",
+      "date": "2025-02-12",
+      "content": "The hood fits PERFECTLY!",
+      "reactions": { "likes": 12, "hearts": 10 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_052",
+      "username": "sunnycrochet",
+      "date": "2025-02-13",
+      "content": "This was such a cheerful make 🌞💛",
+      "reactions": { "likes": 9, "hearts": 6 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_053",
+      "username": "bt21bites",
+      "date": "2025-02-13",
+      "content": "Ears were so satisfying to shape.",
+      "reactions": { "likes": 7, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_054",
+      "username": "hoodieknot",
+      "date": "2025-02-14",
+      "content": "Mine came out so cute I screamed.",
+      "reactions": { "likes": 11, "hearts": 9 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_055",
+      "username": "looparmy",
+      "date": "2025-02-15",
+      "content": "I’m begging for more BT21 patterns please 🙏💛",
+      "reactions": { "likes": 13, "hearts": 11 },
+      "reply_to": null
+    }
+  ],
+
+  "grogu-crochet-joy": [
+    {
+      "comment_id": "cmt_056",
+      "username": "blogfan1",
+      "date": "2025-02-01",
+      "content": "This post made me smile so much.",
+      "reactions": { "likes": 6, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_057",
+      "username": "dinjarn",
+      "date": "2025-02-02",
+      "content": "Grogu always brings back my creativity too!",
+      "reactions": { "likes": 7, "hearts": 6 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_058",
+      "username": "starstitch",
+      "date": "2025-02-03",
+      "content": "Your writing style is so comforting.",
+      "reactions": { "likes": 10, "hearts": 7 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_059",
+      "username": "tinygalaxy",
+      "date": "2025-02-04",
+      "content": "This post convinced me to start crocheting again 💚",
+      "reactions": { "likes": 12, "hearts": 8 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_060",
+      "username": "yarnpilot",
+      "date": "2025-02-05",
+      "content": "Please write more creative posts like this!",
+      "reactions": { "likes": 8, "hearts": 5 },
+      "reply_to": null
+    }
+  ],
+
+  "pig-squishy-amigurumi": [
+    {
+      "comment_id": "cmt_061",
+      "username": "oinkstitch",
+      "date": "2025-02-06",
+      "content": "The personality you give your pig is hilarious 😂",
+      "reactions": { "likes": 12, "hearts": 10 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_062",
+      "username": "farmreader",
+      "date": "2025-02-07",
+      "content": "This post totally inspired me to make a pig too!",
+      "reactions": { "likes": 7, "hearts": 6 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_063",
+      "username": "pinknibbles",
+      "date": "2025-02-08",
+      "content": "Your stories make the patterns even better.",
+      "reactions": { "likes": 10, "hearts": 7 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_064",
+      "username": "porkypurls",
+      "date": "2025-02-09",
+      "content": "I love extra round amigurumi too!",
+      "reactions": { "likes": 8, "hearts": 5 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_065",
+      "username": "squishfan",
+      "date": "2025-02-10",
+      "content": "Please keep doing blog posts, they’re so cozy.",
+      "reactions": { "likes": 9, "hearts": 6 },
+      "reply_to": null
+    }
+  ],
+
+  "bat-spooky-cute-amigurumi": [
+    {
+      "comment_id": "cmt_066",
+      "username": "spookythreads",
+      "date": "2025-02-11",
+      "content": "This post got me EXCITED for Halloween already!",
+      "reactions": { "likes": 11, "hearts": 9 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_067",
+      "username": "shadowreader",
+      "date": "2025-02-12",
+      "content": "Your writing is adorable. More spooky content please!",
+      "reactions": { "likes": 8, "hearts": 6 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_068",
+      "username": "tinyfangs",
+      "date": "2025-02-13",
+      "content": "YES to vampire bat version!!!",
+      "reactions": { "likes": 14, "hearts": 12 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_069",
+      "username": "moonreader",
+      "date": "2025-02-14",
+      "content": "Love the window sunset description 😍",
+      "reactions": { "likes": 7, "hearts": 5 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_070",
+      "username": "forestwitch",
+      "date": "2025-02-15",
+      "content": "I want this to be a whole spooky-cute series.",
+      "reactions": { "likes": 9, "hearts": 7 },
+      "reply_to": null
+    }
+  ],
+
+  "bulbasaur-crochet-nostalgia": [
+    {
+      "comment_id": "cmt_071",
+      "username": "nostalgiaguru",
+      "date": "2025-02-16",
+      "content": "This brought back so many memories for me.",
+      "reactions": { "likes": 10, "hearts": 8 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_072",
+      "username": "pokejournal",
+      "date": "2025-02-17",
+      "content": "I also ALWAYS chose Bulbasaur!",
+      "reactions": { "likes": 6, "hearts": 5 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_073",
+      "username": "teamgrass",
+      "date": "2025-02-18",
+      "content": "Your writing is so sweet. Love this post.",
+      "reactions": { "likes": 8, "hearts": 6 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_074",
+      "username": "flowerthread",
+      "date": "2025-02-18",
+      "content": "The bulb shaping description was perfect.",
+      "reactions": { "likes": 7, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_075",
+      "username": "greenpurls",
+      "date": "2025-02-19",
+      "content": "Please keep doing these nostalgia posts!",
+      "reactions": { "likes": 9, "hearts": 6 },
+      "reply_to": null
+    }
+  ],
+
+  "sheep-crochet-bobble-stitch": [
+    {
+      "comment_id": "cmt_076",
+      "username": "boopbobbles",
+      "date": "2025-02-20",
+      "content": "I had no idea bobble rows were meant for the wrong side!",
+      "reactions": { "likes": 11, "hearts": 8 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_077",
+      "username": "fluffyfields",
+      "date": "2025-02-21",
+      "content": "Your textured projects are inspiring me.",
+      "reactions": { "likes": 7, "hearts": 5 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_078",
+      "username": "woolwander",
+      "date": "2025-02-22",
+      "content": "I love how detailed your posts are!",
+      "reactions": { "likes": 8, "hearts": 6 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_079",
+      "username": "craftpasture",
+      "date": "2025-02-22",
+      "content": "Thank you for making texture approachable.",
+      "reactions": { "likes": 6, "hearts": 4 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_080",
+      "username": "shearjoy",
+      "date": "2025-02-23",
+      "content": "This made me want to try the pattern again!",
+      "reactions": { "likes": 9, "hearts": 7 },
+      "reply_to": null
+    }
+  ],
+
+  "koya-bt21-amigurumi": [
+    {
+      "comment_id": "cmt_081",
+      "username": "cutecoils",
+      "date": "2025-02-24",
+      "content": "This post is adorable. I love Koya so much.",
+      "reactions": { "likes": 10, "hearts": 8 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_082",
+      "username": "snoozyarmy",
+      "date": "2025-02-25",
+      "content": "Your sleepy Koya description melted me 😭💙",
+      "reactions": { "likes": 12, "hearts": 10 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_083",
+      "username": "bluehugs",
+      "date": "2025-02-26",
+      "content": "Leg joins really DO feel magical!",
+      "reactions": { "likes": 7, "hearts": 5 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_084",
+      "username": "cloudhug",
+      "date": "2025-02-27",
+      "content": "Koya is my favorite BT21 character too 💙",
+      "reactions": { "likes": 9, "hearts": 7 },
+      "reply_to": null
+    },
+    {
+      "comment_id": "cmt_085",
+      "username": "armystitches",
+      "date": "2025-02-28",
+      "content": "Please make more BT21-themed posts!",
+      "reactions": { "likes": 13, "hearts": 11 },
+      "reply_to": null
+    }
+  ]
+}

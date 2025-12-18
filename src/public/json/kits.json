@@ -1,0 +1,224 @@
+{
+  "ChickenKit": {
+    "name": "Chicken Crochet Kit",
+    "pattern_reference": "Chicken",
+    "images": { "cover": "images/kits/chicken_kit.jpg" },
+    "description": "A complete crochet kit to make your own adorable Chicken amigurumi.",
+    "difficulty": "beginner",
+    "estimated_time_hours": 3,
+    "contents": {
+      "yarn": [
+        { "color": "white", "amount_grams": 20 },
+        { "color": "yellow", "amount_grams": 5 },
+        { "color": "red", "amount_grams": 5 }
+      ],
+      "hook": "3.5 mm",
+      "stuffing": "fiberfill (included)",
+      "extras": ["stitch marker", "yarn needle", "safety eyes", "printed pattern booklet"]
+    },
+    "price_usd": 0,
+    "tags": ["crochet kit", "chicken", "amigurumi"]
+  },
+
+  "GroguKit": {
+    "name": "Grogu Crochet Kit",
+    "pattern_reference": "Grogu",
+    "images": { "cover": "images/kits/grogu_kit.jpg" },
+    "description": "A complete crochet kit inspired by Grogu, featuring soft greens and browns.",
+    "difficulty": "intermediate",
+    "estimated_time_hours": 4,
+    "contents": {
+      "yarn": [
+        { "color": "green", "amount_grams": 25 },
+        { "color": "brown", "amount_grams": 20 },
+        { "color": "light brown", "amount_grams": 5 }
+      ],
+      "hook": "3.5 mm",
+      "stuffing": "fiberfill (included)",
+      "extras": ["stitch marker", "yarn needle", "safety eyes", "printed pattern booklet"]
+    },
+    "price_usd": 0,
+    "tags": ["crochet kit", "grogu", "amigurumi", "star wars"]
+  },
+
+  "BulbasaurKit": {
+    "name": "Bulbasaur Crochet Kit",
+    "pattern_reference": "Bulbasaur",
+    "images": { "cover": "images/kits/bulbasaur_kit.jpg" },
+    "description": "A full crochet kit including green yarn, stuffing, and everything needed to make Bulbasaur.",
+    "difficulty": "intermediate",
+    "estimated_time_hours": 4,
+    "contents": {
+      "yarn": [
+        { "color": "green", "amount_grams": 25 },
+        { "color": "teal", "amount_grams": 5 },
+        { "color": "pink", "amount_grams": 3 }
+      ],
+      "hook": "3.5 mm",
+      "stuffing": "fiberfill (included)",
+      "extras": ["stitch marker", "yarn needle", "safety eyes", "printed pattern booklet"]
+    },
+    "price_usd": 0,
+    "tags": ["crochet kit", "pokemon", "bulbasaur", "amigurumi"]
+  },
+
+  "BatKit": {
+    "name": "Bat Crochet Kit",
+    "pattern_reference": "Bat",
+    "images": { "cover": "images/kits/bat_kit.jpg" },
+    "description": "A spooky-cute bat crochet kit perfect for fall or year-round fun.",
+    "difficulty": "beginner",
+    "estimated_time_hours": 3,
+    "contents": {
+      "yarn": [
+        { "color": "black", "amount_grams": 20 }
+      ],
+      "hook": "3.5 mm",
+      "stuffing": "fiberfill (included)",
+      "extras": ["stitch marker", "yarn needle", "safety eyes", "printed pattern booklet"]
+    },
+    "price_usd": 0,
+    "tags": ["crochet kit", "halloween", "bat", "amigurumi"]
+  },
+
+  "BaldEagleKit": {
+    "name": "Bald Eagle Crochet Kit",
+    "pattern_reference": "BaldEagle",
+    "images": { "cover": "images/kits/bald_eagle_kit.jpg" },
+    "description": "Everything you need to make a patriotic Bald Eagle amigurumi.",
+    "difficulty": "intermediate",
+    "estimated_time_hours": 4,
+    "contents": {
+      "yarn": [
+        { "color": "white", "amount_grams": 20 },
+        { "color": "brown", "amount_grams": 20 },
+        { "color": "yellow", "amount_grams": 5 }
+      ],
+      "hook": "3.5 mm",
+      "stuffing": "fiberfill",
+      "extras": ["stitch marker", "yarn needle", "safety eyes", "printed pattern booklet"]
+    },
+    "price_usd": 0,
+    "tags": ["crochet kit", "eagle", "amigurumi", "wildlife"]
+  },
+
+  "PigKit": {
+    "name": "Pig Crochet Kit",
+    "pattern_reference": "Pig",
+    "images": { "cover": "images/kits/pig_kit.jpg" },
+    "description": "A soft pink Pig crochet kit that includes snout + tail yarn.",
+    "difficulty": "beginner",
+    "estimated_time_hours": 3,
+    "contents": {
+      "yarn": [
+        { "color": "pink", "amount_grams": 25 }
+      ],
+      "hook": "3.5 mm",
+      "stuffing": "fiberfill",
+      "extras": ["stitch marker", "yarn needle", "safety eyes", "printed pattern booklet"]
+    },
+    "price_usd": 0,
+    "tags": ["crochet kit", "pig", "farm", "amigurumi"]
+  },
+
+  "OtterKit": {
+    "name": "Otter Crochet Kit",
+    "pattern_reference": "Otter",
+    "images": { "cover": "images/kits/otter_kit.jpg" },
+    "description": "A cute Otter crochet kit featuring brown and light-brown yarn.",
+    "difficulty": "beginner",
+    "estimated_time_hours": 3,
+    "contents": {
+      "yarn": [
+        { "color": "brown", "amount_grams": 20 },
+        { "color": "light brown", "amount_grams": 10 }
+      ],
+      "hook": "3.5 mm",
+      "stuffing": "fiberfill",
+      "extras": ["stitch marker", "yarn needle", "safety eyes", "printed pattern booklet"]
+    },
+    "price_usd": 0,
+    "tags": ["crochet kit", "otter", "amigurumi", "aquatic"]
+  },
+
+  "SheepKit": {
+    "name": "Sheep Crochet Kit",
+    "pattern_reference": "Sheep",
+    "images": { "cover": "images/kits/sheep_kit.jpg" },
+    "description": "A fluffy textured Sheep crochet kit including yarn for bobbles.",
+    "difficulty": "intermediate",
+    "estimated_time_hours": 4,
+    "contents": {
+      "yarn": [
+        { "color": "gray", "amount_grams": 10 },
+        { "color": "white", "amount_grams": 25 }
+      ],
+      "hook": "3.5 mm",
+      "stuffing": "fiberfill",
+      "extras": ["stitch marker", "yarn needle", "safety eyes", "printed pattern booklet"]
+    },
+    "price_usd": 0,
+    "tags": ["crochet kit", "sheep", "amigurumi", "textured"]
+  },
+
+  "PugKit": {
+    "name": "Pug Crochet Kit",
+    "pattern_reference": "Pug",
+    "images": { "cover": "images/kits/pug_kit.jpg" },
+    "description": "A Pug crochet kit featuring cream and brown yarn.",
+    "difficulty": "beginner",
+    "estimated_time_hours": 3,
+    "contents": {
+      "yarn": [
+        { "color": "cream", "amount_grams": 20 },
+        { "color": "brown", "amount_grams": 10 }
+      ],
+      "hook": "3.5 mm",
+      "stuffing": "fiberfill",
+      "extras": ["stitch marker", "yarn needle", "safety eyes", "printed pattern booklet"]
+    },
+    "price_usd": 0,
+    "tags": ["crochet kit", "pug", "amigurumi", "dog"]
+  },
+
+  "KoyaBt21Kit": {
+    "name": "Koya BT21 Crochet Kit",
+    "pattern_reference": "KoyaBt21",
+    "images": { "cover": "images/kits/koya_kit.jpg" },
+    "description": "A crochet kit to make Koya from BT21 with soft blue and white yarn.",
+    "difficulty": "beginner",
+    "estimated_time_hours": 3,
+    "contents": {
+      "yarn": [
+        { "color": "blue", "amount_grams": 20 },
+        { "color": "white", "amount_grams": 5 }
+      ],
+      "hook": "3.5 mm",
+      "stuffing": "fiberfill",
+      "extras": ["stitch marker", "yarn needle", "safety eyes", "printed pattern booklet"]
+    },
+    "price_usd": 0,
+    "tags": ["crochet kit", "bt21", "koya", "amigurumi"]
+  },
+
+  "ChimmyBt21Kit": {
+    "name": "Chimmy BT21 Crochet Kit",
+    "pattern_reference": "ChimmyBt21",
+    "images": { "cover": "images/kits/chimmy_kit.jpg" },
+    "description": "A cheerful Chimmy BT21 crochet kit including yellow and white yarn.",
+    "difficulty": "beginner",
+    "estimated_time_hours": 3,
+    "contents": {
+      "yarn": [
+        { "color": "yellow", "amount_grams": 20 },
+        { "color": "white", "amount_grams": 10 },
+        { "color": "black", "amount_grams": 5 }
+      ],
+      "hook": "3.5 mm",
+      "stuffing": "fiberfill",
+      "extras": ["stitch marker", "yarn needle", "safety eyes", "printed pattern booklet"]
+    },
+    "price_usd": 0,
+    "tags": ["crochet kit", "bt21", "chimmy", "amigurumi"]
+  }
+}
