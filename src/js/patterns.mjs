@@ -13,7 +13,6 @@ function patternCardTemplate(pattern) {
   `;
 }
 
-// DEFAULT export (so import without curly braces)
 export async function patternsList(selector) {
   const el = document.querySelector(selector);
   if (!el) {
@@ -21,10 +20,8 @@ export async function patternsList(selector) {
     return;
   }
 
-  // Load the JSON object (keyed by unique ids)
   const patternsObj = await getData("../json/patterns.json");
 
-  // Convert { id: patternObj, ... } into an array and keep the id
   const patterns = Object.entries(patternsObj).map(([id, pattern]) => ({
     id,
     ...pattern,
