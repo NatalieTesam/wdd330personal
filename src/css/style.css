@@ -178,3 +178,14 @@ footer img {
     max-width: 300px;
 }
 
+.commentsList li{
+    border: 2px solid var(--purple-color);
+    border-radius: 5px;
+    margin: 2em;
+    padding: 1em;
+}
+
+.pattern {
+    padding: 1em;
+    margin: 0 auto;
+}
