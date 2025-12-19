@@ -22,10 +22,6 @@ Wireframes
 -	Patterns Page: https://wireframe.cc/u3yFG4 
 -	Individual Pattern Page: https://wireframe.cc/6SKzll 
 -	Kits Page: Same layout as Patterns page, displays products
--	Social Media/Blog Page: https://wireframe.cc/WEIRAA 
--	Wishlist: https://wireframe.cc/dwAt4K 
--	Cart: https://wireframe.cc/3xbeLi 
--	Checkout: https://wireframe.cc/KOe0CQ 
 
 Colors/Typography/specific Element Styling 
  - https://coolors.co/596475-bc9ec1-e3bac6-fde8e9
